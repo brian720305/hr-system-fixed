@@ -1,5 +1,5 @@
 {
-  "name": "hr-system-full",
+  "name": "hr-system-interactive",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
